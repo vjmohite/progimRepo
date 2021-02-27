@@ -5,4 +5,3 @@ change made by developer 1
 public void m1(){
 }
 
-final variable add;
